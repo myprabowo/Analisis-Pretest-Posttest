@@ -46,5 +46,3 @@ File Excel harus memiliki tiga kolom:
 Proyek ini didistribusikan di bawah lisensi [MIT](https://opensource.org/licenses/MIT).
 
 ---
-
-Apakah kamu ingin saya bantu menambahkan badge GitHub (seperti R version, license, Shiny live app link, dsb)?
